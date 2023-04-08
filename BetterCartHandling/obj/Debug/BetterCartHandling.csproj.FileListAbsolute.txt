@@ -1,0 +1,12 @@
+C:\Code\Mods\Valheim\BetterCartHandling\BetterCartHandling\bin\Debug\BetterCartHandling.dll
+C:\Code\Mods\Valheim\BetterCartHandling\BetterCartHandling\bin\Debug\BetterCartHandling.pdb
+C:\Code\Mods\Valheim\BetterCartHandling\BetterCartHandling\bin\Debug\0Harmony.dll
+C:\Code\Mods\Valheim\BetterCartHandling\BetterCartHandling\bin\Debug\assembly_valheim.dll
+C:\Code\Mods\Valheim\BetterCartHandling\BetterCartHandling\bin\Debug\BepInEx.dll
+C:\Code\Mods\Valheim\BetterCartHandling\BetterCartHandling\bin\Debug\UnityEngine.CoreModule.dll
+C:\Code\Mods\Valheim\BetterCartHandling\BetterCartHandling\bin\Debug\UnityEngine.dll
+C:\Code\Mods\Valheim\BetterCartHandling\BetterCartHandling\obj\Debug\BetterCartHandling.csproj.AssemblyReference.cache
+C:\Code\Mods\Valheim\BetterCartHandling\BetterCartHandling\obj\Debug\BetterCartHandling.csproj.CoreCompileInputs.cache
+C:\Code\Mods\Valheim\BetterCartHandling\BetterCartHandling\obj\Debug\BetterCartHandling.csproj.CopyComplete
+C:\Code\Mods\Valheim\BetterCartHandling\BetterCartHandling\obj\Debug\BetterCartHandling.dll
+C:\Code\Mods\Valheim\BetterCartHandling\BetterCartHandling\obj\Debug\BetterCartHandling.pdb
